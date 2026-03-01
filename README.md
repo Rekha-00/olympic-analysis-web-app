@@ -1,4 +1,5 @@
 # 🏅 Olympic Data Analysis Web App
+![Olympic App Screenshot](app_screenshot.png)
 
 An interactive web application built with **Streamlit** to analyze 120 years of Olympic history data.
 
